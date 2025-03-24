@@ -1,0 +1,17 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\bin\Debug\net8.0-windows\IngresoMuestraDato.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\bin\Debug\net8.0-windows\IngresoMuestraDato.deps.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\bin\Debug\net8.0-windows\IngresoMuestraDato.runtimeconfig.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\bin\Debug\net8.0-windows\IngresoMuestraDato.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\bin\Debug\net8.0-windows\IngresoMuestraDato.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.frmPrincipal.resources
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.csproj.GenerateResource.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.AssemblyInfoInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.AssemblyInfo.cs
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\refint\IngresoMuestraDato.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.genruntimeconfig.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\ref\IngresoMuestraDato.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresoMuestraDato\IngresoMuestraDato\obj\Debug\net8.0-windows\IngresoMuestraDato.Properties.Resources.resources
