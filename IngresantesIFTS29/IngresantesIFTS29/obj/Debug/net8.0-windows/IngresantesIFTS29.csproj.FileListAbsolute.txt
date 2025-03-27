@@ -1,0 +1,17 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\bin\Debug\net8.0-windows\IngresantesIFTS29.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\bin\Debug\net8.0-windows\IngresantesIFTS29.deps.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\bin\Debug\net8.0-windows\IngresantesIFTS29.runtimeconfig.json
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\bin\Debug\net8.0-windows\IngresantesIFTS29.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\bin\Debug\net8.0-windows\IngresantesIFTS29.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.FormIFTS29.resources
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.csproj.GenerateResource.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.AssemblyInfoInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.AssemblyInfo.cs
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\refint\IngresantesIFTS29.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.genruntimeconfig.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\ref\IngresantesIFTS29.dll
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\IngresantesIFTS29\IngresantesIFTS29\obj\Debug\net8.0-windows\IngresantesIFTS29.Properties.Resources.resources
